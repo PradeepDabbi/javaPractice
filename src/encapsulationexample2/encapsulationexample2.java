@@ -13,6 +13,6 @@ public class encapsulationexample2 {
 		vehicle.setName("Thar");
 		System.out.println("vehicleName is : "+vehicle.getName());
 	}
-	
+	aa
 
 }
